@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Homework 1 - *Name of App*
+=======
+# BT_Seminar01
+>>>>>>> af784b121e44d3f09fe82b1731c3c571b4fe24d3
 
 **Name of your app** Đây là trang web cho phép người dùng viết blog. Thời gian nộp: 0h ngày 3/10
 
