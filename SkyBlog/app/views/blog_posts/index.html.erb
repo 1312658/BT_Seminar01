@@ -1,0 +1,32 @@
+<button class="btn btn-default" style="float: right;">
+  <%= link_to 'Tạo bài viết mới', new_blog_post_path %>
+</button>
+
+<div class="container">
+  <div class="col-sm-10 col-sm-offset-1 col-xs-12 blog-content">
+    <h1 style="color:#2288bb; padding-left: 15px; ">Danh sách bài viết</h1>
+    <% @blog_posts.each do |blog_post| %>
+        <div class="col-xs-12">
+          <div>
+            <h3>
+              <%= blog_post.title %>
+            </h3>
+            <h6>
+              <%= blog_post.publishdate.strftime('%b %d, %Y') %>
+            </h6>
+          </div>
+
+          <div>
+            <%= raw(blog_post.content).truncate(358) %>
+          </div>
+
+          <div class="text-center">
+            <%= link_to "Show", blog_post %>
+          </div>
+          <br>
+        </div>
+    <% end %>
+  </div>
+</div>
+
+
