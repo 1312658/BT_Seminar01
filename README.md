@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+﻿<<<<<<< HEAD
 # Homework 1 - *Name of App*
 =======
 # BT_Seminar01
@@ -53,7 +53,7 @@ Các chuẩn đầu ra cần thực hiện:
 
 Here's a walkthrough of implemented user stories:
 
-![Video Walkthrough](relative-path-to-your-gif-file-on-github-or-absolute-path-to-file-on-imgur-or-youtube)
+![Video Walkthrough](anhGIF.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
