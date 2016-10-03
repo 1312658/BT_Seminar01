@@ -1,5 +1,5 @@
 ﻿<<<<<<< HEAD
-# Homework 1 - *Name of App*
+# Homework 1 - SkyBlog
 =======
 # BT_Seminar01
 >>>>>>> af784b121e44d3f09fe82b1731c3c571b4fe24d3
